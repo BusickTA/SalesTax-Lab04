@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99a58c44-3e0a-4a6a-b32a-3a7c8df08de1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SalesTaxCalculator.java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SalesTaxCalculator.java" afterDir="false" />
-    </list>
+    <list default="true" id="99a58c44-3e0a-4a6a-b32a-3a7c8df08de1" name="Changes" comment="salestax" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BusickTA"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BusickTA/SalesTax-Lab04.git",
+    "accountId": "953d4e05-7321-4393-9ecc-2b184f6185f3"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -47,6 +51,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726696326938</updated>
     </task>
+    <task id="LOCAL-00001" summary="salestax">
+      <option name="closed" value="true" />
+      <created>1726697055610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726697055610</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="salestax" />
+    <option name="LAST_COMMIT_MESSAGE" value="salestax" />
   </component>
 </project>
